@@ -119,6 +119,10 @@ This library is under GNU GPL v3 license. If you need business license, don't he
 
 Please contact [me](mailto:zdenek.skulinek\@robotea.com\?subject\=License%20for%20AMRange).
 
+## Ask for help
+
+Please contact [me](mailto:zdenek.skulinek\@robotea.com\?subject\=Consultation).
+
 ## Dependencies
 
 - [Google test](https://github.com/google/googletest.git)
