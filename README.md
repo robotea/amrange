@@ -82,7 +82,7 @@ Set of ranges
 
 ## Documetation
 
-There are doxygen generated documentation [here on libandromeda.org](http://libandromeda.org/amrange/latest/).
+There are doxygen generated documentation [here on andromeda.robotea.com](http://andromeda.robotea.com/amrange/latest/).
 
 ## Building AMRange
 
@@ -113,7 +113,7 @@ make
 
 ## License
 
-This library is under GNU GPL v3 license. If you need business license, don't hesitate to contact [me](mailto:zdenek.skulinek\@robotea.com\?subject\=License%20for%20AMRange).
+This library is under MIT license.
 
 ## Contribute
 
