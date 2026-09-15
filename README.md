@@ -15,7 +15,7 @@ Range is set of numeric type values described by formula <from, to).
 
 #### Range assignment     
 
-    //asignment
+    //assignment
     r1 = r2;
     EXPECT_EQ(r1, r2);
 
